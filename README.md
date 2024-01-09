@@ -1,4 +1,4 @@
-![image](https://github.com/justbest2003/justbest2003/assets/111554501/744ea564-ec3a-400a-95b6-62d031114b9c)<div id="header" align="center">
+<div id="header" align="center">
 
   <img src="https://i.pinimg.com/originals/c6/04/f0/c604f07940ee811deb7642a7364f4588.gif" width="750"/>
   <h1 align="center">
