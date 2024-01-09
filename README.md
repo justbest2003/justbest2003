@@ -3,9 +3,6 @@
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=C8A2C8&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Angkan+Baitoey!;" />
 </h1>
-  
-  <h3 align="center">We should learn from our mistakes.</h3> 
-  
   <p>
   🎓I am studying at NPRU<br>
   </p>
