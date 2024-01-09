@@ -7,7 +7,7 @@
   <h3 align="center">We should learn from our mistakes.</h3> 
   
   <p>
-  🎓I study at NPRU university <br>
+  🎓I am studying at NPRU<br>
   </p>
   
 </div>
