@@ -21,8 +21,8 @@
   <a href="https://www.youtube.com/@Kays_s_">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-<a href="your-twitter-URL">
-    <img alt="Static Badge" src="https://img.shields.io/badge/facebook-angkan?style=for-the-badge&logo=facebook&color=%234267b2&link=https%3A%2F%2Fwww.github.com">
+<a href="www.google.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/facebook-angkan?style=for-the-badge&logo=facebook&color=%234267b2">
   </a>
   <br>
   
