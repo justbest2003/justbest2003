@@ -1,6 +1,6 @@
-<div id="header" align="center">
+![image](https://github.com/justbest2003/justbest2003/assets/111554501/744ea564-ec3a-400a-95b6-62d031114b9c)<div id="header" align="center">
 
-  <img src="[https://i.pinimg.com/564x/51/d1/58/51d15824695e2757c4421d08f46f89d7.jpg](https://i.pinimg.com/originals/c6/04/f0/c604f07940ee811deb7642a7364f4588.gif](https://i.pinimg.com/originals/c6/04/f0/c604f07940ee811deb7642a7364f4588.gif)" width="750"/>
+  <img src="https://i.pinimg.com/originals/c6/04/f0/c604f07940ee811deb7642a7364f4588.gif" width="750"/>
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=C8A2C8&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Best!;" />
 </h1>
