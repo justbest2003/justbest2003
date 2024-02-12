@@ -10,7 +10,7 @@
 </div>
 
 <div id="badges"  align="center">
-<a href= " https://www.facebook.com/Justl3est">
+<a href="https://www.facebook.com/Justl3est">
     <img alt="Static Badge" src="https://img.shields.io/badge/facebook-angkan?style=for-the-badge&logo=facebook&color=%234267b2">
   </a>
   <br>
